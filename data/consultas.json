@@ -1,0 +1,18 @@
+[
+  {"q": "tratamento pela administração pública para execução de políticas públicas",
+   "fonte": "art7_III", "span": "execução de políticas públicas previstas em leis e regulamentos"},
+  {"q": "o princípio da finalidade permite reutilizar os dados para outro fim depois?",
+   "fonte": "art6_I", "span": "sem possibilidade de tratamento posterior de forma incompatível com essas finalidades"},
+  {"q": "o que exige o princípio da responsabilização e prestação de contas?",
+   "fonte": "art6_X", "span": "demonstração, pelo agente, da adoção de medidas eficazes e capazes de comprovar a observância"},
+  {"q": "os interesses legítimos do controlador têm algum limite?",
+   "fonte": "art7_IX", "span": "exceto no caso de prevalecerem direitos e liberdades fundamentais do titular"},
+  {"q": "a transparência garante informações claras e acessíveis ao titular?",
+   "fonte": "art6_VI", "span": "informações claras, precisas e facilmente acessíveis sobre a realização do tratamento"},
+  {"q": "dados podem ser tratados para proteger a vida do titular?",
+   "fonte": "art7_VII", "span": "proteção da vida ou da incolumidade física do titular ou de terceiro"},
+  {"q": "o princípio da necessidade limita a coleta ao mínimo?",
+   "fonte": "art6_III", "span": "limitação do tratamento ao mínimo necessário para a realização de suas finalidades"},
+  {"q": "tratamento de dados para estudos por órgão de pesquisa com anonimização",
+   "fonte": "art7_IV", "span": "garantida, sempre que possível, a anonimização dos dados pessoais"}
+]
